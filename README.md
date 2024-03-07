@@ -1,4 +1,4 @@
-# Classic Donkey Kong 2D
+# Galaga 
 
 Welcome to the Galaga-game-project repository! This repository hosts a 2D recreation of the classic Galaga arcade game, built using Java and JavaFX for graphics in eclipse. The game is a homage to the original Galaga game released by Namco in 1981, featuring the iconic user experience of a spacship that shoots its enemies in space in order to destroy them and grant the highest score.
 
