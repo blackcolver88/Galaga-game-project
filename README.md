@@ -30,9 +30,8 @@ To play Galaga, follow these steps:
 1. Clone or download the repository to your local machine.
 2. Make sure you have Java Development Kit (JDK) installed on your machine.
 3. Install Eclipse IDE for Java Developers .
-4. Set up the JavaFX libraries and configurations in VSCode (see below).
-5. Open the project folder in eclipse-workspace.
-6. Run the game using `Run main` of the eclipse tools .
+4. Open the project folder in eclipse-workspace.
+5. Run the game using `Run main` of the eclipse tools .
 
 ## Acknowledgments
 
